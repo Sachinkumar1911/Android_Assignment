@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LudoAssignemnt</string>
+    <string name="logo_desc">This is my logo</string>
+    <string name="Dice_Roll">This is a dice to roll</string>
+    <string name="btn_roll">This is a button for rolling a dice</string>
+    <string name="btn">ROLL</string>
+    <string name="btn1">Higher</string>
+    <string name="btn2">Lower</string>
+    <string name="Textv">Result</string>
+    <string name="txtc">Computer</string>
+    <string name="txtu">User</string>
+    <string name="resultemo">This is a result emoji</string>
+</resources>
